@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**ronald-zip/ronald-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Here Ronald Sinche. I´m consider a dev particulary i'm not had a preference about a language, i like learn and know more about IT and branchs like as.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ocassionally use github, u can see on my contributions but now use frecuently is a goal to this year.
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+[![](https://iq.opengenus.org/content/images/2020/08/Dino_non-birthday_version.gif)]
