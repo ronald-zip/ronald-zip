@@ -12,5 +12,5 @@ Ocassionally use github, u can see on my contributions but now use frecuently is
 - Open source :octocat:
 
 <p align="center">
-    [![](https://iq.opengenus.org/content/images/2020/08/Dino_non-birthday_version.gif)]
+    <img src="https://iq.opengenus.org/content/images/2020/08/Dino_non-birthday_version.gif">
 </p>
